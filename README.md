@@ -1,7 +1,7 @@
 # SA.01-WK1-Code-Challenge
 1.SA.01: WK1: Code Challenge
 
-2.Date, 2024/03/24
+2.Date: 24/03/2024
 
 3.Author: Barmao Brian Kipchumba
 
