@@ -6,7 +6,6 @@
 
 4.Description
 These repository contains three code solutions foreach of the following challenges respectively;
- Challenge 1: Student Grade Generator
 
 A.Grade Calculator
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade:
@@ -41,7 +40,7 @@ Git
 
 7.Installation instruction
 ```
-Git clone https:
+Git clone https:git@github.com:BarmaoBrian/SA.01-WK1-Code-Challenge.git
 
 ```
 
