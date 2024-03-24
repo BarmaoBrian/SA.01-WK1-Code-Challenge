@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Calculator</title>
+    
+    <link rel="stylesheet" href="./style.css">
+
+
+</head>
+<body>
+    <div>
+    <h1>Salary Calculator</h1>
+    <label for="basicSalary">Basic Salary:</label>
+    <input type="number" id="basicSalary" placeholder="Enter basic salary" required>
+    <br>
+    <label for="benefits">Benefits:</label>
+    <input type="number" id="benefits" placeholder="Enter benefits" required>
+    <br>
+    <button onclick="calculateSalary()">Calculate</button>
+    
+    <div id="result"></div>
+
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
